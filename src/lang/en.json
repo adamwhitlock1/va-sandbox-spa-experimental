@@ -1,0 +1,13 @@
+{
+  "form-name": "Example Form",
+  "first-name": "First Name",
+  "first-name-placeholder": "Enter your first name",
+  "last-name": "Last Name",
+  "last-name-placeholder": "Enter your last name",
+  "email": "Email",
+  "email-placeholder": "Enter your email",
+  "email-required": "Email is required",
+  "email-invalid": "Please enter a valid email address",
+  "reset": "reset",
+  "submit": "submit"
+}
